@@ -1,7 +1,7 @@
 import HeroSection from "../HeroSection";
 import MySkills from "../MySkills";
 import AboutMe from "../Aboutme"
-
+import MyPortfolio from "../Portfolio";
 
 export const Home = () => {
   return (
@@ -9,6 +9,7 @@ export const Home = () => {
     <HeroSection/>
     <MySkills/>
     <AboutMe/>
+    <MyPortfolio/>
     </>
   )
 }
