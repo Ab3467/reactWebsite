@@ -1,0 +1,74 @@
+{
+    "skills": [{
+            "id": "1",
+            "src": "./images/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "2",
+            "src": "./images/tag-1.png",
+            "title": "Back-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "3",
+            "src": "./images/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        },
+        {
+            "id": "4",
+            "src": "./images/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        }
+    ],
+    "portfolio": [{
+            "id": "1",
+            "src": "./images/placeholder-image.png",
+            "title": "Ahuse",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./images/placeholder-image-1.png",
+            "title": "App Dashboard",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./images/placeholder-image-2.png",
+            "title": "Easy Rentn",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "link": "View In Github"
+        }
+    ],
+    "testimonial": [{
+            "id": "1",
+            "count": "5",
+            "src": "./images/avatar-image.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./images/avatar-image-1.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kristin Watson",
+            "author_designation": "Louis Vuitton"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./images/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kathryn Murphy",
+            "author_designation": "McDonald's"
+        }
+    ]
+}
